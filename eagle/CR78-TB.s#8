@@ -16622,7 +16622,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="Q2" library="808_lt" deviceset="2N3904" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
-<part name="R4" library="rcl" deviceset="R-US_" device="0309/12" value="10k"/>
+<part name="R4" library="rcl" deviceset="R-US_" device="0207/7" value="10k"/>
 <part name="R2" library="rcl" deviceset="R-US_" device="0207/7" value="56k"/>
 <part name="P+1" library="supply1" deviceset="+12V" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
