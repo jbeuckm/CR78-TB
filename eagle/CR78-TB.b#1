@@ -1756,13 +1756,13 @@ design rules under a new name.</description>
 <wire x1="14.4145" y1="39.1795" x2="14.224" y2="39.37" width="0.8128" layer="16"/>
 <wire x1="40.64" y1="21.336" x2="40.64" y2="19.05" width="0.8128" layer="16"/>
 <wire x1="40.64" y1="19.05" x2="42.9895" y2="19.05" width="0.8128" layer="16"/>
-<wire x1="33.5915" y1="35.306" x2="34.544" y2="35.306" width="0" layer="19" extent="16-16"/>
 <wire x1="21.336" y1="37.592" x2="21.336" y2="37.719" width="0" layer="19" extent="16-16"/>
 <wire x1="11.684" y1="37.338" x2="11.938" y2="37.338" width="0" layer="19" extent="16-16"/>
 <wire x1="35.052" y1="9.144" x2="39.878" y2="9.144" width="0.8128" layer="16"/>
 <wire x1="39.878" y1="9.144" x2="42.926" y2="12.192" width="0.8128" layer="16"/>
 <wire x1="42.926" y1="12.192" x2="42.926" y2="16.1925" width="0.8128" layer="16"/>
 <wire x1="42.926" y1="16.1925" x2="42.9895" y2="16.256" width="0.8128" layer="16"/>
+<wire x1="33.5915" y1="35.306" x2="34.544" y2="35.306" width="0.8128" layer="16"/>
 </signal>
 <signal name="GND">
 <contactref element="TB" pad="6"/>
@@ -1818,9 +1818,9 @@ design rules under a new name.</description>
 <wire x1="32.385" y1="33.147" x2="31.496" y2="34.036" width="0.8128" layer="16"/>
 <wire x1="31.496" y1="34.036" x2="30.226" y2="34.036" width="0.8128" layer="16"/>
 <wire x1="38.354" y1="36.576" x2="35.33775" y2="31.52775" width="0.8128" layer="16"/>
-<wire x1="36.3855" y1="25.146" x2="37.846" y2="25.146" width="0" layer="19" extent="16-16"/>
-<wire x1="21.844" y1="15.24" x2="21.5265" y2="15.1765" width="0" layer="19" extent="16-16"/>
-<wire x1="21.844" y1="26.924" x2="21.717" y2="23.0505" width="0" layer="19" extent="16-16"/>
+<wire x1="36.3855" y1="25.146" x2="37.846" y2="25.146" width="0.8128" layer="16"/>
+<wire x1="21.844" y1="26.924" x2="21.844" y2="22.86" width="0.8128" layer="16"/>
+<wire x1="21.5265" y1="15.1765" x2="21.844" y2="15.24" width="0" layer="19" extent="16-16"/>
 </signal>
 <signal name="N$46">
 <contactref element="Q523" pad="1"/>

@@ -1759,7 +1759,10 @@ design rules under a new name.</description>
 <wire x1="33.5915" y1="35.306" x2="34.544" y2="35.306" width="0" layer="19" extent="16-16"/>
 <wire x1="21.336" y1="37.592" x2="21.336" y2="37.719" width="0" layer="19" extent="16-16"/>
 <wire x1="11.684" y1="37.338" x2="11.938" y2="37.338" width="0" layer="19" extent="16-16"/>
-<wire x1="35.052" y1="9.144" x2="42.9895" y2="16.256" width="0" layer="19" extent="16-16"/>
+<wire x1="35.052" y1="9.144" x2="39.878" y2="9.144" width="0.8128" layer="16"/>
+<wire x1="39.878" y1="9.144" x2="42.926" y2="12.192" width="0.8128" layer="16"/>
+<wire x1="42.926" y1="12.192" x2="42.926" y2="16.1925" width="0.8128" layer="16"/>
+<wire x1="42.926" y1="16.1925" x2="42.9895" y2="16.256" width="0.8128" layer="16"/>
 </signal>
 <signal name="GND">
 <contactref element="Q2" pad="3"/>
@@ -1891,7 +1894,8 @@ design rules under a new name.</description>
 <wire x1="24.4475" y1="7.366" x2="24.9555" y2="9.144" width="0.8128" layer="16"/>
 <wire x1="24.0665" y1="6.223" x2="24.4475" y2="7.366" width="0.8128" layer="16"/>
 <wire x1="24.0665" y1="6.223" x2="24.13" y2="5.842" width="0.8128" layer="16"/>
-<wire x1="30.861" y1="3.2385" x2="35.052" y2="1.524" width="0" layer="19" extent="16-16"/>
+<wire x1="30.861" y1="3.2385" x2="33.3375" y2="3.2385" width="0.8128" layer="16"/>
+<wire x1="33.3375" y1="3.2385" x2="35.052" y2="1.524" width="0.8128" layer="16"/>
 </signal>
 <signal name="N$18">
 <contactref element="R19" pad="1"/>
